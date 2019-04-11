@@ -8,4 +8,7 @@ package com.test;
  * @DATE 2018/5/30 19:18
  */
 public class TestDemo {
+    public static void main(String[] age){
+        System.out.println("就是这样的.");
+    }
 }
